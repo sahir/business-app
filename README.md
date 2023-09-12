@@ -1,4 +1,4 @@
-**  SoftBank Business Module **
+**  Business Module **
 
 ### Setup Instruction & Uses
 
