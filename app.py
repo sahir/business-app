@@ -4,6 +4,7 @@ from sqlalchemy.orm import Session
 from utility.database import get_db,Business
 from utility.models import BusinessModel, BusinessCreateModel
 
+# FastAPI
 app = FastAPI(title="SoftBank Business APIs",
               docs_url="/api/docs",
               debug=True)
